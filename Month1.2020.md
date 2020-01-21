@@ -1,4 +1,6 @@
-# Cosmos Governance Working Group - Month #1
+# Cosmos Governance Working Group
+## Month #1 Community Call
+
 Date: 
 
 Time: 
