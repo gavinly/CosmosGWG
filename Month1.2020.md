@@ -29,4 +29,5 @@ Provide a sentence of context (history), where you are presently, and what's nex
 
 #### 4. Plan next call
 Suggestion: Month 2 call could prioritize Korea/HK (eg. 10:00 UTC)
+
 Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
