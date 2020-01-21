@@ -1,4 +1,4 @@
-# Cosmos Governance Working Group - Call #1
+# Cosmos Governance Working Group - Month #1
 Date: 
 Time: 
 Duration: 45 minutes
