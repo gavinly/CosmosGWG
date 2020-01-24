@@ -9,9 +9,7 @@ Duration: 45 minutes (max)
 
 Host: Gavin Birch (Figment Networks)
 
-Attendees: 
-
-Video url: to be posted
+Video conference URL: https://meet.google.com/kan-gyws-pak
 
 ## Prior to the meeting
 1. Please share any contact information that you feel comfortable sharing [here](http://bit.ly/2sukvxa).
@@ -33,3 +31,4 @@ Suggestion: Month 2 call could prioritize Korea/HK (eg. 10:00 UTC)
 Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 
 ## Notes
+Attendees: 
