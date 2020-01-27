@@ -20,8 +20,11 @@ Video conference URL: https://meet.google.com/kan-gyws-pak
 #### 1. Introductions
 Please keep intros brief! Ideally your name, organization, primary governance interest in a sentence :)
 
-#### 2. Project updates
-Provide a sentence of context (history), where you are presently, and what's next (or what's holding you back).
+#### 2. GWG Charter & Organization
+- What is the role of the Cosmos Governance Working Group?
+- What is the objective of the GWG?
+- Who should be involved in the GWG?
+- How should the GWG be organized?
 
 #### 3. Open questions / answers
 
