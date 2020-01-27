@@ -25,6 +25,7 @@ Please keep intros brief! Ideally your name, organization, primary governance in
 - What is the objective of the GWG?
 - Who should be involved in the GWG?
 - How should the GWG be organized?
+Matthew (Simply VC) suggested that the GWG Charter be [organized in this way](https://forum.cosmos.network/t/gwg-a-charter-for-the-cosmos-governance-working-group/3104/4).
 
 #### 3. Open questions / answers
 
