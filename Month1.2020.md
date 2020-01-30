@@ -36,4 +36,19 @@ Suggestion: Month 2 call could prioritize Korea/HK (eg. 10:00 UTC)
 Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 
 ## Notes
-Attendees: 
+### Attendees
+Connor [Consensus Networks](https://consensusnetworks.com) - decentralization & governance
+Fabian [blockscape](https://www.blockscape.network) - incentivizing delegators to vote
+Florian [Staking Facilities](https://stakingfacilities.com) - future governance problems when Cosmos is mainstream
+Greg [Cephalopod Equipment](https://cephalopod.equipment) - what we are supposed to be doing on the Cosmos Hub
+Hitesh [Persistance](https://persistence.one) - helping the community
+Hyung [B-Harvest](https://bharvest.io) - governance enthusiast, aims to build the most active governance community
+Josh aka Dogemos [All in Bits](https://tendermint.com) - inclusive community
+Julius [Staking Facilities](https://stakingfacilities.com) - optimizing the process of making governance information available to all stakeholders
+Matthew [Simply VC](https://www.simply-vc.com.mt) - interested broadly in governance
+Sergey [cyber~Congress](https://cybercongress.ai) - making governance more decentralized and fairer
+Shilin [Forbole](https://www.forbole.com) - sustainability and general use of the Community Pool
+Sunny [Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com) - wrote most of the governance module; empirical testing to test validity of "democracy is the worst form of governance other than everything else"
+Tushar [Persistance](https://persistence.one) - challenges of governing blockchain networks; incentivization of interchain governance via IBC
+Vit [Everstake](https://everstake.one) - would like to 
+Andy [Interchain Foundation](https://interchain.io) - how Interchain Foundation can help the GWG
