@@ -37,9 +37,9 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 
 ## Notes
 ### Attendees
-Connor [Consensus Networks](https://consensusnetworks.com) - decentralization & governance
-Fabian [blockscape](https://www.blockscape.network) - incentivizing delegators to vote
-Florian [Staking Facilities](https://stakingfacilities.com) - future governance problems when Cosmos is mainstream
+- Connor [Consensus Networks](https://consensusnetworks.com) - decentralization & governance
+- Fabian [blockscape](https://www.blockscape.network) - incentivizing delegators to vote
+- Florian [Staking Facilities](https://stakingfacilities.com) - future governance problems when Cosmos is mainstream
 Greg [Cephalopod Equipment](https://cephalopod.equipment) - what we are supposed to be doing on the Cosmos Hub
 Hitesh [Persistance](https://persistence.one) - helping the community
 Hyung [B-Harvest](https://bharvest.io) - governance enthusiast, aims to build the most active governance community
