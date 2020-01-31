@@ -64,14 +64,20 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 ##### What is the objective of the GWG?
 - Tushar ([Persistance](https://persistence.one)) suggested that the GWG's mandate should be to further the agenda of the broader Cosmos community, and Tushar thinks we should establish more clarity about what broader Cosmos community values to define the term "common good."
 - Serj ([cyber~Congress](https://cybercongress.ai)) cautioned about there being dangers in forming a working group, and that our role should primarily be listening to the community (what distinguishes a decentralized philosophy from centralized).
+- Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) wants tangible work to be done, and to minimize insular, self-justification work.
 ##### Who should be involved in the GWG?
 This question went largely unaddressed in this call. 
 - Serj ([cyber~Congress](https://cybercongress.ai)) thinks we should prepare to share information and include communities outside of the Cosmos Hub as interchain governance takes form.
 
 ##### How should the GWG be organized?
 This question went largely unaddressed in this call.
-- Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that for GWG community calls, we decide if we should formalize the GWG or discuss a specific project.
+
+#### Q & A
+Q. Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) what's the role of the GWG in the deliverables from Prop23?
+A. Gavin - Figment is responsible for championing the deliverables work, possibly with feedback from the GWG, which isn't necessary. Figment should be consulting with researchers, developers, and experts to deliver high quality deliverables.
 
 #### Planning for next call
 - Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that have more frequent calls
+- Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that we establish a focus for GWG community calls, we decide if we should formalize the GWG or discuss a specific project.
+- Connor ([Consensus Networks](https://consensusnetworks.com)) would also like a focused direction for each GWG call.
 - Gavin ([Figment Networks](figment.network)) suggested mid-month calls; tentatively Feb 12 and Feb 28, 2020 @ 10:00 UTC (to prioritize South Korea & Hong Kong timezones)
