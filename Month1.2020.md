@@ -80,6 +80,7 @@ This question went largely unaddressed in this call.
 
 #### Q & A
 Q. Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) what's the role of the GWG in the deliverables from Prop23?
+
 A. Gavin - Figment is responsible for championing the deliverables work, possibly with feedback from the GWG, which isn't necessary. Figment should be consulting with researchers, developers, and experts to deliver high quality deliverables.
 
 #### Planning for next call
