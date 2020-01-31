@@ -47,7 +47,7 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 - Josh aka Dogemos ([All in Bits](https://tendermint.com)) - inclusive community
 - Julius ([Staking Facilities](https://stakingfacilities.com)) - optimizing the process of making governance information available to all stakeholders
 - Matthew ([Simply VC](https://www.simply-vc.com.mt)) - interested broadly in governance
-- Sergey ([cyber~Congress](https://cybercongress.ai)) - making governance more decentralized and fairer
+- Serj ([cyber~Congress](https://cybercongress.ai)) - making governance more decentralized and fairer
 - Shilin ([Forbole](https://www.forbole.com)) - sustainability and general use of the Community Pool
 - Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) - wrote most of the governance module; empirical testing to test validity of "democracy is the worst form of governance other than everything else"
 - Tushar ([Persistance](https://persistence.one)) - challenges of governing blockchain networks; incentivization of interchain governance via IBC
@@ -62,6 +62,16 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 - Matthew ([Simply VC](https://www.simply-vc.com.mt)) said that part of the GWG education, and another part of it is a process that has not yet been established. If I'm a person that wants to launch a proposal, the GWG could be a place where the members help me to formalize my thoughts and educate the general community about what the proposal is trying to achieve. The GWG could be a cross-section of the community focused on governance, and part of the process for people looking to launch proposals is to seek feedback from the GWG before launching a proposal for vote.
 
 ##### What is the objective of the GWG?
+- Tushar ([Persistance](https://persistence.one)) suggested that the GWG's mandate should be to further the agenda of the broader Cosmos community, and Tushar thinks we should establish more clarity about what broader Cosmos community values to define the term "common good."
+- Serj ([cyber~Congress](https://cybercongress.ai)) cautioned about there being dangers in forming a working group, and that our role should primarily be listening to the community (what distinguishes a decentralized philosophy from centralized).
 ##### Who should be involved in the GWG?
+This question went largely unaddressed in this call. 
+- Serj ([cyber~Congress](https://cybercongress.ai)) thinks we should prepare to share information and include communities outside of the Cosmos Hub as interchain governance takes form.
+
 ##### How should the GWG be organized?
+This question went largely unaddressed in this call.
 - Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that for GWG community calls, we decide if we should formalize the GWG or discuss a specific project.
+
+#### Planning for next call
+- Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that have more frequent calls
+- Gavin ([Figment Networks](figment.network)) suggested mid-month calls; tentatively Feb 12 and Feb 28, 2020 @ 10:00 UTC (to prioritize South Korea & Hong Kong timezones)
