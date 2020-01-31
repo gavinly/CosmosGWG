@@ -51,5 +51,5 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 - Shilin ([Forbole](https://www.forbole.com)) - sustainability and general use of the Community Pool
 - Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) - wrote most of the governance module; empirical testing to test validity of "democracy is the worst form of governance other than everything else"
 - Tushar ([Persistance](https://persistence.one)) - challenges of governing blockchain networks; incentivization of interchain governance via IBC
-- Vit ([Everstake](https://everstake.one)) - would like to 
+- Vit ([Everstake](https://everstake.one)) - would like to help broadly
 - Andy ([Interchain Foundation](https://interchain.io)) - how Interchain Foundation can help the GWG
