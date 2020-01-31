@@ -55,7 +55,7 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 - Andy ([Interchain Foundation](https://interchain.io)) - how Interchain Foundation can help the GWG
 
 Several attendees joined after introductions (feel free to message me to be added):
-- Fredy ([DragonStake)](dragonstake.io)
+- Fredy ([DragonStake)](https://dragonstake.io)
 
 
 #### GWG Charter & Organization
