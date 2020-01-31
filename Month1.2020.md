@@ -37,6 +37,7 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 
 ## Notes
 ### Attendees
+20 attendees in total, with introductions from:
 - Connor ([Consensus Networks](https://consensusnetworks.com)) - decentralization & governance
 - Fabian ([blockscape](https://www.blockscape.network)) - incentivizing delegators to vote
 - Florian ([Staking Facilities](https://stakingfacilities.com)) - future governance problems when Cosmos is mainstream
