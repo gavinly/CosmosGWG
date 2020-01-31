@@ -79,9 +79,9 @@ This question went largely unaddressed in this call.
 - Julius ([Staking Facilities](https://stakingfacilities.com)) thinks that the GWG should have a website user interface that summerizes information about a proposal for awareness and information. As a future goal, since it will be a lot of work, but valuable because many stakeholders will likely be uncomfortable using a platform like Github.
 
 #### Q & A
-Q. Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) what's the role of the GWG in the deliverables from Prop23?
+Q. Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) - what's the role of the GWG in the deliverables from Prop23?
 
-A. Gavin - Figment is responsible for championing the deliverables work, possibly with feedback from the GWG, which isn't necessary. Figment should be consulting with researchers, developers, and experts to deliver high quality deliverables.
+A. Gavin ([Figment Networks](figment.network)) - Figment is responsible for championing the deliverables work, possibly with feedback from the GWG, which isn't necessary. Figment should be consulting with researchers, developers, and experts to deliver high quality deliverables.
 
 #### Planning for next call
 - Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that have more frequent calls
