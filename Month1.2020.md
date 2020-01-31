@@ -57,9 +57,9 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 
 #### GWG Charter & Organization
 - What is the role of the Cosmos Governance Working Group?
-Gavin ([Figment Networks](figment.network)) created a simple [charter for the GWG](https://forum.cosmos.network/t/gwg-a-charter-for-the-cosmos-governance-working-group/3104) for consideration and revision.
-Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that beyond education about governance proposals and decision-making, there will be a need to execute what is within the proposals, and perhaps that could be part of the GWG's role.
-Matthew ([Simply VC](https://www.simply-vc.com.mt)) - part education. Part of it is a process that has not yet been established. If I'm a person that wants to launch a proposal, the GWG could be a place where the members help me to formalize my thoughts and educate the general community about what the proposal is trying to achieve.
+1. Gavin ([Figment Networks](figment.network)) created a simple [charter for the GWG](https://forum.cosmos.network/t/gwg-a-charter-for-the-cosmos-governance-working-group/3104) for consideration and revision.
+2. Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that beyond education about governance proposals and decision-making, there will be a need to execute what is within the proposals, and perhaps that could be part of the GWG's role.
+3. Matthew ([Simply VC](https://www.simply-vc.com.mt)) - part education. Part of it is a process that has not yet been established. If I'm a person that wants to launch a proposal, the GWG could be a place where the members help me to formalize my thoughts and educate the general community about what the proposal is trying to achieve.
 
 - What is the objective of the GWG?
 - Who should be involved in the GWG?
