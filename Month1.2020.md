@@ -60,17 +60,23 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 - Gavin ([Figment Networks](figment.network)) created a simple [charter for the GWG](https://forum.cosmos.network/t/gwg-a-charter-for-the-cosmos-governance-working-group/3104) for consideration and revision.
 - Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that beyond education about governance proposals and decision-making, there will be a need to execute what is within the proposals, and perhaps that could be part of the GWG's role.
 - Matthew ([Simply VC](https://www.simply-vc.com.mt)) said that part of the GWG education, and another part of it is a process that has not yet been established. If I'm a person that wants to launch a proposal, the GWG could be a place where the members help me to formalize my thoughts and educate the general community about what the proposal is trying to achieve. The GWG could be a cross-section of the community focused on governance, and part of the process for people looking to launch proposals is to seek feedback from the GWG before launching a proposal for vote.
+- Gavin ([Figment Networks](figment.network)) thinks that the GWG should not take positions on proposals, only educate and allow a broader culture to develop around how decisions on proposals are made.
 
 ##### What is the objective of the GWG?
 - Tushar ([Persistance](https://persistence.one)) suggested that the GWG's mandate should be to further the agenda of the broader Cosmos community, and Tushar thinks we should establish more clarity about what broader Cosmos community values to define the term "common good."
 - Serj ([cyber~Congress](https://cybercongress.ai)) cautioned about there being dangers in forming a working group, and that our role should primarily be listening to the community (what distinguishes a decentralized philosophy from centralized).
 - Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) wants tangible work to be done, and to minimize insular, self-justification work.
+
 ##### Who should be involved in the GWG?
 This question went largely unaddressed in this call. 
 - Serj ([cyber~Congress](https://cybercongress.ai)) thinks we should prepare to share information and include communities outside of the Cosmos Hub as interchain governance takes form.
 
 ##### How should the GWG be organized?
-This question went largely unaddressed in this call.
+- Hyung ([B-Harvest](https://bharvest.io)) suggested that the GWG could be a group of workers who may volunteer to help a proposer to write a proposal using a platform; comparable to the Github development process. However, the incentive part is missing.
+- Gavin ([Figment Networks](figment.network)) suggested that the incentive part could be funded by larger entities that would value proposals moving through a process that reduces the demand on their attentional resources.
+- Josh aka Dogemos ([All in Bits](https://tendermint.com)) suggested using a Github repository to let people create issues between this call and the next.
+- Greg ([Cephalopod Equipment](https://cephalopod.equipment)) noted that there are many communication channels and that we may want to avoid adding new channels.
+- Julius ([Staking Facilities](https://stakingfacilities.com)) thinks that the GWG should have a website user interface that summerizes information about a proposal for awareness and information. As a future goal, since it will be a lot of work, but valuable because many stakeholders will likely be uncomfortable using a platform like Github.
 
 #### Q & A
 Q. Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) what's the role of the GWG in the deliverables from Prop23?
