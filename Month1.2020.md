@@ -54,6 +54,9 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 - Vit ([Everstake](https://everstake.one)) - would like to help broadly
 - Andy ([Interchain Foundation](https://interchain.io)) - how Interchain Foundation can help the GWG
 
+Several attendees joined after introductions (feel free to message me to be added):
+- Fredy ([DragonStake)](dragonstake.io)
+
 
 #### GWG Charter & Organization
 ##### What is the role of the Cosmos Governance Working Group?
