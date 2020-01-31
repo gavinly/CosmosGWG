@@ -7,7 +7,7 @@ Time: 15:00 UTC
 
 Duration: 45 minutes (max)
 
-Host: Gavin Birch (Figment Networks)
+Host: Gavin Birch ([Figment Networks](figment.network))
 
 Video conference URL: https://meet.google.com/kan-gyws-pak
 
@@ -53,3 +53,15 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 - Tushar ([Persistance](https://persistence.one)) - challenges of governing blockchain networks; incentivization of interchain governance via IBC
 - Vit ([Everstake](https://everstake.one)) - would like to help broadly
 - Andy ([Interchain Foundation](https://interchain.io)) - how Interchain Foundation can help the GWG
+
+
+#### GWG Charter & Organization
+- What is the role of the Cosmos Governance Working Group?
+Gavin ([Figment Networks](figment.network)) created a simple [charter for the GWG](https://forum.cosmos.network/t/gwg-a-charter-for-the-cosmos-governance-working-group/3104) for consideration and revision.
+Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that beyond education about governance proposals and decision-making, there will be a need to execute what is within the proposals, and perhaps that could be part of the GWG's role.
+Matthew ([Simply VC](https://www.simply-vc.com.mt)) - part education. Part of it is a process that has not yet been established. If I'm a person that wants to launch a proposal, the GWG could be a place where the members help me to formalize my thoughts and educate the general community about what the proposal is trying to achieve.
+
+- What is the objective of the GWG?
+- Who should be involved in the GWG?
+- How should the GWG be organized?
+GWG community calls: Greg ([Cephalopod Equipment](https://cephalopod.equipment)) suggested that we either decide how we should formalize the GWG or discuss a specific project.
