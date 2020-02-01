@@ -47,7 +47,7 @@ Month 3 could prioritize the west coast timezone (eg. 17:00 UTC)
 - Josh aka Dogemos ([All in Bits](https://tendermint.com)) - inclusive community
 - Julius ([Staking Facilities](https://stakingfacilities.com)) - optimizing the process of making governance information available to all stakeholders
 - Matthew ([Simply VC](https://www.simply-vc.com.mt)) - interested broadly in governance
-- Serj ([cyber~Congress](https://cybercongress.ai)) - making governance more decentralized and fairer
+- Sergey ([cyber~Congress](https://cybercongress.ai)) - making governance more decentralized and fairer
 - Shilin ([Forbole](https://www.forbole.com)) - sustainability and general use of the Community Pool
 - Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) - wrote most of the governance module; empirical testing to test validity of "democracy is the worst form of governance other than everything else"
 - Tushar ([Persistance](https://persistence.one)) - challenges of governing blockchain networks; incentivization of interchain governance via IBC
@@ -67,12 +67,12 @@ Several attendees joined after introductions (feel free to message me to be adde
 
 ##### What is the objective of the GWG?
 - Tushar ([Persistance](https://persistence.one)) suggested that the GWG's mandate should be to further the agenda of the broader Cosmos community, and Tushar thinks we should establish more clarity about what broader Cosmos community values to define the term "common good."
-- Serj ([cyber~Congress](https://cybercongress.ai)) cautioned about there being dangers in forming a working group, and that our role should primarily be listening to the community (what distinguishes a decentralized philosophy from centralized).
+- Sergey ([cyber~Congress](https://cybercongress.ai)) cautioned about there being dangers in forming a working group, and that our role should primarily be listening to the community (what distinguishes a decentralized philosophy from centralized).
 - Sunny ([Sikka](https://www.sikka.tech) & [All in Bits](https://tendermint.com)) wants tangible work to be done, and to minimize insular, self-justification work.
 
 ##### Who should be involved in the GWG?
 This question went largely unaddressed in this call. 
-- Serj ([cyber~Congress](https://cybercongress.ai)) thinks we should prepare to share information and include communities outside of the Cosmos Hub as interchain governance takes form.
+- Sergey ([cyber~Congress](https://cybercongress.ai)) thinks we should prepare to share information and include communities outside of the Cosmos Hub as interchain governance takes form.
 
 ##### How should the GWG be organized?
 - Hyung ([B-Harvest](https://bharvest.io)) suggested that the GWG could be a group of workers who may volunteer to help a proposer to write a proposal using a platform; comparable to the Github development process. However, the incentive part is missing.
