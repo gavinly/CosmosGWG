@@ -4,7 +4,9 @@
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Next Call
-day, February date, 2020 10:00 UTC | [agenda](Month2.2020.md) | [notes](Month2.2020.md#notes) | [audio](-) |
+Informal call tentatively set for:
+
+Thu, February 13, 2020 10:00 UTC | [agenda](Month2.2020.md) | [summary](Month2.2020.md#notes) | [audio](-) |
 
 
 ### Previous 2020 Calls
