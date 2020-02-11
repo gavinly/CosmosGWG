@@ -6,7 +6,7 @@ The Cosmos GWG Community Call is intended to bring together various Cosmos stake
 ### Next Call
 Informal call tentatively set for:
 
-[Thu, February 13, 2020 10:00 UTC](https://us04web.zoom.us/j/121129446) - A process for receiving & providing feedback on proposals
+[Thu, February 13, 2020 14:00 UTC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MHJkY2R0Zmd1cTVzdW1xYmY1ZGNydDJxODAgZmlnbWVudC5jYXBpdGFsX29iYnZqMnVsNWI3MGFyNTg4amY4dnUxanFrQGc&tmsrc=figment.capital_obbvj2ul5b70ar588jf8vu1jqk%40group.calendar.google.com) - An intake process for draft proposals ie. receiving & providing feedback on proposals
 
 
 ### Previous 2020 Calls
