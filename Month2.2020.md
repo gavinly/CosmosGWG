@@ -1,7 +1,7 @@
 # Cosmos Governance Working Group
 ## Month #2 Community Call
 
-Date: TBD
+Date: TBD - [discuss here](https://forum.cosmos.network/t/gwg-community-calls-updates/3238)
 
 Time: 14:00 UTC
 
