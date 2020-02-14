@@ -12,7 +12,7 @@ Host: Gavin Birch ([Figment Networks](figment.network))
 Video conference URL: TBD
 
 ## Prior to the meeting
-1. [Join us!](http://bit.ly/2sukvxa) Please share any contact information that you feel comfortable sharing [here](http://bit.ly/2sukvxa).
+1. [Join us!](http://bit.ly/2sukvxa) Please share any contact information that you feel comfortable sharing.
 2. Please indicate [your primary governance interests here](https://docs.google.com/document/d/1jdSwln5L7KLvEkkM91GhlblniSynmAjMyAWSLONxTGQ/edit?usp=sharing).
 
 ## Agenda
