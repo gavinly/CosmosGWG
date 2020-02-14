@@ -15,5 +15,6 @@ Informal call set for:
 
  Month  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
- 1 | Tuesday, January 28, 2020 15:00 UTC | [agenda](Month1.2020.md) | [notes](Month1.2020.md#notes) | [audio](https://drive.google.com/open?id=14P5PSSBN0hBEG40BX1GAvEOQSNKH06-0) |
-  2 | day, February date, 2020 10:00 UTC | [agenda](Month2.2020.md) | [notes](Month2.2020.md#notes) | [audio](-) |
+ 1 | Tuesday, January 28, 2020 - 15:00 UTC | [agenda](Month1.2020.md) | [notes](Month1.2020.md#notes) | [audio](https://drive.google.com/open?id=14P5PSSBN0hBEG40BX1GAvEOQSNKH06-0) |
+ 2 | Thursday, February 13, 2020 - 14:00 UTC | A process for draft proposal intake |  | video |
+  2 | day, February --, 2020 14:00 UTC | [agenda](Month2.2020.md) | [notes](Month2.2020.md#notes) | video |
