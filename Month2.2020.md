@@ -17,7 +17,7 @@ Video conference URL: TBD
 
 ## Agenda
 
-#### 1. Introductions
+#### 1. Newcomer introductions
 Please keep intros brief! Ideally your name, organization, primary governance interest in a sentence :)
 
 #### 2. GWG updates
