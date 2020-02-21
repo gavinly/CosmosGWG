@@ -1,7 +1,8 @@
 # Cosmos Governance Working Group
 ## Month #2 Community Call
+[discuss here](https://forum.cosmos.network/t/gwg-community-calls-updates/3238)
 
-Date: TBD - [discuss here](https://forum.cosmos.network/t/gwg-community-calls-updates/3238)
+Date: Thursday, February 27
 
 Time: 14:00 UTC
 
@@ -9,7 +10,7 @@ Duration: 60 minutes
 
 Host: Gavin Birch ([Figment Networks](figment.network))
 
-Video conference URL: TBD
+Video conference URL: https://zoom.us/j/350368377
 
 ## Prior to the meeting
 1. [Join us!](http://bit.ly/2sukvxa) Please share any contact information that you feel comfortable sharing.
@@ -18,17 +19,17 @@ Video conference URL: TBD
 ## Agenda
 
 #### 1. Newcomer introductions
-Please keep intros brief! Ideally your name, organization, primary governance interest in a sentence :)
+Please keep intros brief! Ideally your name, organization, primary governance interest in a single sentence :)
 
 #### 2. GWG updates
-- update from Gavin (Figment Networks) re: documentation & best practices for [community-spend](https://github.com/gavinly/CosmosCommunitySpend) & [parameter-change](https://github.com/gavinly/CosmosParametersWiki) proposals
 - mid-month topic call re: proposal intake process
+- update from Gavin (Figment Networks) re: documentation & best practices for [community-spend](https://github.com/gavinly/CosmosCommunitySpend) & [parameter-change](https://github.com/gavinly/CosmosParametersWiki) proposals
 
 #### 3. TBD
 
-#### 4. Planning
-- Recommendations for GWG Q2 initiatives: what could a Q2 GWG community-spend proposal look like?
-- mid-month call: suggest picking a single topic that is a current priority
+#### 4. Future planning
+- What single topic is a current priority for the next mid-month call?
+- Consider recommendations for GWG Q2 initiatives ie. what could a Q2 GWG community-spend proposal look like?
 
 ## Notes
 ### Attendees
