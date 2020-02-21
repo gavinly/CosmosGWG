@@ -22,10 +22,15 @@ Video conference URL: https://zoom.us/j/350368377
 Please keep intros brief! Ideally your name, organization, primary governance interest in a single sentence :)
 
 #### 2. GWG updates
-- mid-month topic call re: proposal intake process
+- mid-month topic call review (initial proposal intake process)
 - update from Gavin (Figment Networks) re: documentation & best practices for [community-spend](https://github.com/gavinly/CosmosCommunitySpend) & [parameter-change](https://github.com/gavinly/CosmosParametersWiki) proposals
 
-#### 3. TBD
+#### 3. Proposed Topic: How can governance work be made sustainable?
+There may be big players that can subsidize governance work:
+- exchanges and uninvolved validators need to be alerted to breaking changes
+- exchanges may need support to understand the implications of a proposal
+- multi-asset wallets may need to be alerted to breaking changes
+What is the low-hanging fruit for supporting governance work?
 
 #### 4. Future planning
 - What single topic is a current priority for the next mid-month call?
