@@ -30,6 +30,7 @@ There may be big players that can subsidize governance work:
 - exchanges and uninvolved validators need to be alerted to breaking changes
 - exchanges may need support to understand the implications of a proposal
 - multi-asset wallets may need to be alerted to breaking changes
+
 What is the low-hanging fruit for supporting governance work?
 
 #### 4. Future planning
