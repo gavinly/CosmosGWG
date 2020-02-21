@@ -4,7 +4,7 @@
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Next Call
-Month 2 Community Call - Thu Feb 27 @ 14:00 UTC. Discuss [here](https://forum.cosmos.network/t/gwg-community-calls-updates/3238/6).
+[Month 2 Community Call](https://github.com/gavinly/CosmosGWG/blob/master/Month2.2020.md) - Thu Feb 27 @ 14:00 UTC. Discuss [here](https://forum.cosmos.network/t/gwg-community-calls-updates/3238/6).
 
 
 ### Previous 2020 Calls
