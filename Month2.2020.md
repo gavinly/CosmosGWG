@@ -6,7 +6,7 @@ Date: Thursday, February 27
 
 Time: 14:00 UTC
 
-Duration: 60 minutes
+Duration: 60 minutes (was actually 50 minutes)
 
 Host: Gavin Birch ([Figment Networks](figment.network))
 
@@ -38,6 +38,8 @@ What is the low-hanging fruit for supporting governance work?
 - Consider recommendations for GWG Q2 initiatives ie. what could a Q2 GWG community-spend proposal look like?
 
 ## Notes
+The Zoom video link in the calendar invite failed, making it difficult for attendees to join. We started recording the call ten minutes late at 14:10 UTC and finished on time at 15:00 UTC.
+
 ### Attendees
 x attendees in total, with introductions from new attendees:
 - name ([organization](https://google.com)) - governance interest
