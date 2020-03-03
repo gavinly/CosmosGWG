@@ -41,9 +41,15 @@ What is the low-hanging fruit for supporting governance work?
 The Zoom video link in the calendar invite failed, making it difficult for attendees to join. We started recording the call ten minutes late at 14:10 UTC and finished on time at 15:00 UTC.
 
 ### Attendees
-x attendees in total, with introductions from new attendees:
-- name ([organization](https://google.com)) - governance interest
-- 
+~19 attendees in total, with introductions from new attendees:
+- Zaki ([Iqlusion](https://www.iqlusion.io)) - 
+- Mira ([Ztake](https://ztake.org)) - Concerned with how governance can make or break the network
+- Taariq ([Promise](https://www.promiseprotocols.com)) - Focused on how governance participation can expose enterprise to Cosmos
+- Gregory ([Regen Network](https://www.regen.network)) - High quality user experience of governance
+- James ([Lunie](https://lunie.io/#/)) - How governance changes affect end-users
+- James ([Enigma](https://lunie.io/#/)) - Learning about governance and collaborating
+- Anil ([Vitwit](https://www.vitwit.com/)) - Role of validators in governance
+- Ping ([PING](https://ping.pub/)) - Learning about governance and Chinese translations
 
 Attendees that joined after introductions (feel free to message Gavin to be added):
 - name ([organization)](https://google.com)
