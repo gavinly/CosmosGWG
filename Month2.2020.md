@@ -49,7 +49,7 @@ The Zoom video link in the calendar invite failed, making it difficult for atten
 - James ([Lunie](https://lunie.io/#/)) - How governance changes affect end-users
 - James ([Enigma](https://lunie.io/#/)) - Learning about governance and collaborating
 - Anil ([Vitwit](https://www.vitwit.com/)) - Role of validators in governance
-- Ping ([PING](https://ping.pub/)) - Learning about governance and Chinese translations
+- Ping ([Ping.pub](https://ping.pub/)) - Learning about governance and Chinese translations
 
 Attendees that joined after introductions (feel free to message Gavin to be added):
 - name ([organization)](https://google.com)
@@ -63,7 +63,7 @@ On Feb 13 we had a short call to discuss how the GWG should accept draft governa
 On Feb 26, Gavin ([Figment Networks](figment.network)) published v1.0 of the Community-Spend Best Practices doc. The end-user can use these docs to make the proposal process easier. The GWG can use this to provide support for people drafting community-spend proposals. Gavin is looking for feedback as people use the docs to improve upon the docs. You can read more about that [here](https://figment.network/resources/cosmos-community-spend-best-practices/).
 
 #### 3. How can governance work be made sustainable?
-Zaki ([Iqlusion](https://www.iqlusion.io)) - What is governance work right now? How to resource three components: 1) the right institutions to interact with on-chain governance, 2) promoting governance & engaging with stakeholders and 3) interfacing users with governance. Zaki wants to work on a join-venture structure in order to address component #1.
+Zaki ([Iqlusion](https://www.iqlusion.io)) - What is governance work right now? How to resource three components: 1) the right institutions to interact with on-chain governance, 2) promoting governance & engaging with stakeholders and 3) interfacing users with governance. Zaki wants to work on a join-venture structure in order to address component #1. Other protocols are interested in a join venture legal structure. Meeting with a lawyer on Mar 16. The idea here is to fund a legal entity (via the community pool) to do the work that All in Bits has done to support Cosmos development.
 
 Zaki ([Iqlusion](https://www.iqlusion.io)) - perhaps there should be a budget for the governance work involved in getting a proposal passed, eg. as part of community-spend proposals; ICF grants; etc.
 
@@ -74,8 +74,8 @@ Gavin ([Figment Networks](figment.network)) - There may be big players that can 
 - exchanges may need support to understand the implications of a proposal
 - multi-asset wallets may need to be alerted to breaking changes
 
-What is the low-hanging fruit for supporting governance work?
+What is the low-hanging fruit for supporting governance work? Let's keep discussing how to fund governance work. We've also opened a new dimension of governance work: how can we get dev work done sustainably?
 
 #### 4. Future planning
-- What single topic is a current priority for the next mid-month call?
-- Consider recommendations for GWG Q2 initiatives ie. what could a Q2 GWG community-spend proposal look like?
+- Perhaps our mid-month single topic call could be about how the Cosmos governance mechanism could interface with a legal entity
+- Rather than a Q2 GWG community-spend proposal, what kind of governance work could be proposed for funding in Q2?
