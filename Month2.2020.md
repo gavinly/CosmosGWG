@@ -8,7 +8,7 @@ Time: 14:00 UTC
 
 Duration: 60 minutes (was actually 50 minutes)
 
-Host: Gavin Birch ([Figment Networks](figment.network))
+Host: Gavin Birch ([Figment Networks](https://figment.network))
 
 Video conference URL: https://zoom.us/j/350368377
 
@@ -23,7 +23,7 @@ Please keep intros brief! Ideally your name, organization, primary governance in
 
 #### 2. GWG updates
 - mid-month topic call review (initial proposal intake process)
-- update from Gavin ([Figment Networks](figment.network)) re: documentation & best practices for [community-spend](https://github.com/gavinly/CosmosCommunitySpend) & [parameter-change](https://github.com/gavinly/CosmosParametersWiki) proposals
+- update from Gavin ([Figment Networks](https://figment.network)) re: documentation & best practices for [community-spend](https://github.com/gavinly/CosmosCommunitySpend) & [parameter-change](https://github.com/gavinly/CosmosParametersWiki) proposals
 
 #### 3. Proposed Topic: How can governance work be made sustainable?
 There may be big players that can subsidize governance work:
@@ -56,11 +56,11 @@ Attendees that joined after introductions (feel free to message Gavin to be adde
 
 
 #### 2. GWG updates
-##### Mid-month topic call review from Gavin ([Figment Networks](figment.network))
-On Feb 13 we had a short call to discuss how the GWG should accept draft governance proposals in order to provide feedback. We decided that anyone with a late-stage proposal can engage on the forum, Telegram, Discord, Twitter, etc and as a group we can review their draft proposal. For proposals we are prepared to provide support, we'll invite the proposer to the private Discord channel for fluid discussion and we'll provide feedback via Google Docs. 
+##### Mid-month topic call review from Gavin ([Figment Networks](https://figment.network))
+On Feb 13 we had a short call to discuss how the GWG should accept draft governance proposals in order to provide feedback. We decided that anyone with a late-stage proposal can engage on the forum, Telegram, Discord, Twitter, etc and as a group we can review their draft proposal. For proposals that we are prepared to provide support, we'll invite the proposer to the private Discord channel for fluid discussion and we'll provide feedback via Google Docs. 
 
-##### Governance work updates from Gavin ([Figment Networks](figment.network))
-On Feb 26, Gavin ([Figment Networks](figment.network)) published v1.0 of the Community-Spend Best Practices doc. The end-user can use these docs to make the proposal process easier. The GWG can use this to provide support for people drafting community-spend proposals. Gavin is looking for feedback as people use the docs to improve upon the docs. You can read more about that [here](https://figment.network/resources/cosmos-community-spend-best-practices/).
+##### Governance work updates from Gavin ([Figment Networks](https://figment.network))
+On Feb 26, Gavin ([Figment Networks](https://figment.network)) published v1.0 of the Community-Spend Best Practices doc. The end-user can use these docs to make the proposal process easier. The GWG can use this to provide support for people drafting community-spend proposals. Gavin is looking for feedback as people use the docs to improve upon the docs. You can read more about that [here](https://figment.network/resources/cosmos-community-spend-best-practices/).
 
 #### 3. How can governance work be made sustainable?
 Zaki ([Iqlusion](https://www.iqlusion.io)) - What is governance work right now? How to resource three components: 1) the right institutions to interact with on-chain governance, 2) promoting governance & engaging with stakeholders and 3) interfacing users with governance. Zaki wants to work on a join-venture structure in order to address component #1. Other protocols are interested in a join venture legal structure. Meeting with a lawyer on Mar 16. The idea here is to fund a legal entity (via the community pool) to do the work that All in Bits has done to support Cosmos development.
@@ -69,7 +69,7 @@ Zaki ([Iqlusion](https://www.iqlusion.io)) - perhaps there should be a budget fo
 
 Gregory ([Regen Network](https://www.regen.network)) - some sort of DAO with a budget from the community pool with reputable members that disburse funding.
 
-Gavin ([Figment Networks](figment.network)) - There may be big players that can subsidize governance work:
+Gavin ([Figment Networks](https://figment.network)) - There may be big players that can subsidize governance work:
 - exchanges and uninvolved validators need to be alerted to breaking changes
 - exchanges may need support to understand the implications of a proposal
 - multi-asset wallets may need to be alerted to breaking changes
