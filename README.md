@@ -7,7 +7,7 @@ The Cosmos GWG Community Call is intended to bring together various Cosmos stake
 ### Next Call
 Mid-month topic call - **Wed Mar 18 @ 15:00 UTC** - **Connecting Cosmos Hub's governance to a dedicated legal entity**
 
-- [Calendar invite]()
+- [Calendar invite](http://bit.ly/38SX13K)
 - [Link to video call](https://zoom.us/j/320197653)
 
 **Context:** My understanding is that Zaki (Iqlusion) is working to establish a legal entity. This entity would be dedicated to orchestrating the kind of developer work that All in Bits has done in the past for the Cosmos Hub. The dev work would be funded by the community pool via the legal entity, which would then be accountable to the Cosmos Hub. 
