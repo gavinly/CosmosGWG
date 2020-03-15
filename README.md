@@ -12,7 +12,7 @@ Mid-month topic call - **Wed Mar 18 @ 15:00 UTC** - **Connecting Cosmos Hub's go
 
 **Context:** My understanding is that Zaki (Iqlusion) is working to establish a legal entity. This entity would be dedicated to orchestrating the kind of developer work that All in Bits has done in the past for the Cosmos Hub. The dev work would be funded by the community pool via the legal entity, which would then be accountable to the Cosmos Hub. 
 
-**Plan** Zaki intends to provide an update after a discussion with the lawyer, and we can discuss the work that should be done on the Hub side to establish a connection with the legal entity.
+**Agenda:** Single-sentence intros from newcomers. Gavin (Figment) to provide brief background. Zaki intends to provide an update after a discussion with the lawyer, and we can discuss the work that should be done on the Hub side to establish a connection with the legal entity.
 
 ### Previous 2020 Calls
 
