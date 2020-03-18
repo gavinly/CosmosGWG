@@ -35,7 +35,7 @@ Mid-month topic call - **Wed Mar 18 @ 15:00 UTC** - **Connecting Cosmos Hub's go
 
 **Agenda:** Single-sentence intros from newcomers. Gavin (Figment) to provide brief background. Zaki intends to provide an update after a discussion with the lawyer, and we can discuss the work that should be done on the Hub side to establish a connection with the legal entity.
 
-**Chat:**
+**Chat log:**
 ```
 00:21:39	Gavin (Figment):	1. How do you fund work on an ongoing basis?
 00:22:22	Gavin (Figment):	2. How do you incentivize people to do the managerial work? And how can that be a big opportunity for newcomers.
