@@ -29,6 +29,7 @@ Mid-month topic call - **Wed Mar 18 @ 15:00 UTC** - **Connecting Cosmos Hub's go
 **Topic:** Connecting Cosmos Hub's governance to a dedicated legal entity
 
 29 attendees
+![attendee list](/images/Mar 18 GWG call.png)
 
 [Audio recording](https://zoom.us/rec/play/7MF4f7r-qDw3TNKcuASDU_N5W9TueKushnMZ8qUNnhu3U3dXN1WgZLAQYOpll36z3yv41ND_KMVlhn8r)
 
