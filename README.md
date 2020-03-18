@@ -28,15 +28,15 @@ Mid-month topic call - **Wed Mar 18 @ 15:00 UTC** - **Connecting Cosmos Hub's go
 #### March 18
 **Topic:** Connecting Cosmos Hub's governance to a dedicated legal entity
 
+**Context:** My understanding is that Zaki (Iqlusion) is working to establish a legal entity. This entity would be dedicated to orchestrating the kind of developer work that All in Bits has done in the past for the Cosmos Hub. The dev work would be funded by the community pool via the legal entity, which would then be accountable to the Cosmos Hub. 
+
+**Agenda:** Single-sentence intros from newcomers. Gavin (Figment) to provide brief background. Zaki intends to provide an update after a discussion with the lawyer, and we can discuss the work that should be done on the Hub side to establish a connection with the legal entity.
+
 [Audio recording](https://zoom.us/rec/play/7MF4f7r-qDw3TNKcuASDU_N5W9TueKushnMZ8qUNnhu3U3dXN1WgZLAQYOpll36z3yv41ND_KMVlhn8r)
 
 29 attendees
 
 ![attendees](https://github.com/gavinly/CosmosGWG/blob/master/images/Mar%2018%20GWG%20call.png)
-
-**Context:** My understanding is that Zaki (Iqlusion) is working to establish a legal entity. This entity would be dedicated to orchestrating the kind of developer work that All in Bits has done in the past for the Cosmos Hub. The dev work would be funded by the community pool via the legal entity, which would then be accountable to the Cosmos Hub. 
-
-**Agenda:** Single-sentence intros from newcomers. Gavin (Figment) to provide brief background. Zaki intends to provide an update after a discussion with the lawyer, and we can discuss the work that should be done on the Hub side to establish a connection with the legal entity.
 
 **Chat log:**
 ```
