@@ -21,7 +21,7 @@ Mid-month topic call - **Wed Mar 18 @ 15:00 UTC** - **Connecting Cosmos Hub's go
  Jan | Tuesday, January 28, 2020 - 15:00 UTC | [agenda](Month1.2020.md) | [notes](Month1.2020.md#notes) | [audio](https://drive.google.com/open?id=14P5PSSBN0hBEG40BX1GAvEOQSNKH06-0) |
  Feb | Thursday, February 13, 2020 - 14:00 UTC | A process for draft proposal intake | n/a | [audio](https://drive.google.com/drive/folders/13zIavILxmbqv4BaaBaSogNlTQ-lRubW1?usp=sharing) |
  Feb | Thursday, February 27, 2020 - 14:00 UTC | [agenda](Month2.2020.md) | [notes](Month2.2020.md#notes) | [audio](https://zoom.us/rec/play/vJYpcLv9r2o3GdHE5gSDCqArW9TvKK-s0nRM_fRYmRu9BXUBMACmY7QUMbbo8Pf-og7NFvledSnHKVei) & [chat script](https://zoom.us/rec/download/tJcsdrquqW03SIGWtQSDAad4W43sJ_qsgCYcqKdYzhmwVnACNAH0NLRDNuvY_y9uy0gzbdWuZf-0TEPa) |
- Mar | Wenesday, March 18, 2020 - 15:00 UTC | Connecting Cosmos Hub's governance to a dedicated legal entity | n/a | audio |
+ Mar | Wenesday, March 18, 2020 - 15:00 UTC | Connecting Cosmos Hub's governance to a dedicated legal entity | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#march-18) | [audio](https://zoom.us/rec/play/7MF4f7r-qDw3TNKcuASDU_N5W9TueKushnMZ8qUNnhu3U3dXN1WgZLAQYOpll36z3yv41ND_KMVlhn8r) |
  
  
 ### Topic calls
