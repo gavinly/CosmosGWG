@@ -5,14 +5,12 @@ Discuss community calls [here](https://forum.cosmos.network/t/gwg-community-call
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos Hub. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Next Call
-Mid-month topic call - **Wed Mar 18 @ 15:00 UTC** - **Connecting Cosmos Hub's governance to a dedicated legal entity**
+Month 3 call - **TBD @ ??:00 UTC** - **What kind of governance work could the Cosmos Hub find valuable?**
 
-- [Calendar invite](http://bit.ly/38SX13K)
-- [Link to video call](https://zoom.us/j/320197653)
+- Proposed [agenda](https://github.com/gavinly/CosmosGWG/blob/master/Month3.2020.md)
+- Calendar invite (TBD)
+- Link to video call (TBD)
 
-**Context:** My understanding is that Zaki (Iqlusion) is working to establish a legal entity. This entity would be dedicated to orchestrating the kind of developer work that All in Bits has done in the past for the Cosmos Hub. The dev work would be funded by the community pool via the legal entity, which would then be accountable to the Cosmos Hub. 
-
-**Agenda:** Single-sentence intros from newcomers. Gavin (Figment) to provide brief background. Zaki intends to provide an update after a discussion with the lawyer, and we can discuss the work that should be done on the Hub side to establish a connection with the legal entity.
 
 ### Previous 2020 Calls
 
