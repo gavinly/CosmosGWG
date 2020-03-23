@@ -39,7 +39,6 @@ Is there low-hanging fruit for outstanding governance work?
 - Consider recommendations for GWG Q2 initiatives ie. what could a Q2 GWG community-spend proposal look like?
 
 ## Notes
-The Zoom video link in the calendar invite failed, making it difficult for attendees to join. We started recording the call ten minutes late at 14:10 UTC and finished on time at 15:00 UTC.
 
 ### 1. New attendees
 x attendees in total, with introductions from new attendees:
