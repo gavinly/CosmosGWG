@@ -5,11 +5,11 @@ Discuss community calls [here](https://forum.cosmos.network/t/gwg-community-call
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos Hub. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Next Call
-Month 3 call - **TBD @ ??:00 UTC** - **What kind of governance work could the Cosmos Hub find valuable?**
+Month 3 call - **Tu Mar 31 @ 15:00 UTC** - **What kind of governance work could the Cosmos Hub find valuable?**
 
-- Proposed [agenda](https://github.com/gavinly/CosmosGWG/blob/master/Month3.2020.md)
-- Calendar invite (TBD)
-- Link to video call (TBD)
+- [Agenda](https://github.com/gavinly/CosmosGWG/blob/master/Month3.2020.md)
+- Calendar invite: https://bit.ly/3agCzLX
+- Video call: https://zoom.us/j/236404139
 
 
 ### Previous 2020 Calls
