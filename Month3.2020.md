@@ -2,7 +2,7 @@
 ## Month #3 Community Call
 [discuss here](https://forum.cosmos.network/t/gwg-community-calls-updates/3238)
 
-Date: Tu Mar 31
+Date: Tu Mar 31, 2020
 
 Time: 15:00 UTC
 
