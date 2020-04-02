@@ -58,4 +58,6 @@ On [Mar 26](https://twitter.com/Ether_Gavin/status/1242631518255755276), Gavin (
 **Currently recording these notes**, will update soon.
 
 #### 4. Future planning
+**Currently recording these notes**, and my recollection is that we should work to identify barriers and present potential solutions to creating community spend proposals.
+
 Going forward, Gavin (Figment Networks) will host topic calls periodically and as needed, likely at least one per month. Gavin does not intend to seek GWG funding for Q2 2020.
