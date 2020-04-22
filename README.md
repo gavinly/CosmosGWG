@@ -5,7 +5,7 @@ Discuss community calls [here](https://forum.cosmos.network/t/gwg-community-call
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos Hub. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Next Call
-Mon, April 27, 2020 @ 16:00 UTC - Topic call: **Funding improvements to the Cosmos Hub post-IBC**
+Mon, April 27, 2020 @ 15:00 UTC - Topic call: **Funding improvements to the Cosmos Hub post-IBC**
 Calendar invite
 #### Agenda
 1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) & Zaki (Iqlusion) talk post-IBC roadmap.
