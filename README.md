@@ -6,7 +6,8 @@ The Cosmos GWG Community Call is intended to bring together various Cosmos stake
 
 ### Next Call
 Mon, April 27, 2020 @ 15:00 UTC - Topic call: **Funding improvements to the Cosmos Hub post-IBC**
-Calendar invite
+
+[Calendar invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHRnMzlvaGU4MXY4bjQ2OXVzYzZqODN1NDQgZmlnbWVudC5jYXBpdGFsX29iYnZqMnVsNWI3MGFyNTg4amY4dnUxanFrQGc&tmsrc=figment.capital_obbvj2ul5b70ar588jf8vu1jqk%40group.calendar.google.com)
 #### Agenda
 1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) & Zaki (Iqlusion) talk post-IBC roadmap.
 2) **What is Peggy?** Justin & Deborah (Althea) discuss their plan to connect the Cosmos ecosystem to the Ethereum ecosystem.
