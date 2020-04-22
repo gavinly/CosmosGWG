@@ -5,7 +5,12 @@ Discuss community calls [here](https://forum.cosmos.network/t/gwg-community-call
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos Hub. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Next Call
-TBD
+Mon, April 27, 2020 @ 16:00 UTC - Topic call: **Funding improvements to the Cosmos Hub post-IBC**
+Calendar invite
+#### Agenda
+1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) & Zaki (Iqlusion) talk post-IBC roadmap.
+2) **What is Peggy?** Justin & Deborah (Althea) discuss their plan to connect the Cosmos ecosystem to the Ethereum ecosystem.
+3) **How can smart contract capability improve the Cosmos Hub?** Ethan (CosmWasm) discusses his plan to make the Cosmos Hub more versatile with CosmWasm.
 
 
 ### Previous 2020 Calls
