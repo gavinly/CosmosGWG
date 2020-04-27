@@ -9,9 +9,10 @@ Mon, April 27, 2020 @ 15:00 UTC - Topic call: **Funding improvements to the Cosm
 
 [Calendar invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHRnMzlvaGU4MXY4bjQ2OXVzYzZqODN1NDQgZmlnbWVudC5jYXBpdGFsX29iYnZqMnVsNWI3MGFyNTg4amY4dnUxanFrQGc&tmsrc=figment.capital_obbvj2ul5b70ar588jf8vu1jqk%40group.calendar.google.com)
 #### Agenda
-1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) & Zaki (Iqlusion) talk post-IBC roadmap.
+1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) talks post-IBC roadmap.
 2) **What is Peggy?** Justin & Deborah (Althea) discuss their plan to connect the Cosmos ecosystem to the Ethereum ecosystem.
 3) **How can smart contract capability improve the Cosmos Hub?** Ethan (CosmWasm) discusses his plan to make the Cosmos Hub more versatile with CosmWasm.
+4) **Establishing a comparable advantage for the ATOM token.** Zaki (Iqlusion) talks about ensuring that the ATOM offers genuine comparative advantages over other tokens in the forthcoming interchain.
 
 
 ### Previous 2020 Calls
