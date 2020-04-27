@@ -5,15 +5,7 @@ Discuss community calls [here](https://forum.cosmos.network/t/gwg-community-call
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos Hub. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Next Call
-Mon, April 27, 2020 @ 15:00 UTC - Topic call: **Funding improvements to the Cosmos Hub post-IBC**
-
-[Calendar invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHRnMzlvaGU4MXY4bjQ2OXVzYzZqODN1NDQgZmlnbWVudC5jYXBpdGFsX29iYnZqMnVsNWI3MGFyNTg4amY4dnUxanFrQGc&tmsrc=figment.capital_obbvj2ul5b70ar588jf8vu1jqk%40group.calendar.google.com)
-#### Agenda
-1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) talks post-IBC roadmap. (5 minutes)
-2) **What is Peggy?** Justin & Deborah (Althea) discuss their plan to connect the Cosmos ecosystem to the Ethereum ecosystem. (15 minutes)
-3) **How can smart contract capability improve the Cosmos Hub?** Ethan (CosmWasm) discusses his plan to make the Cosmos Hub more versatile with CosmWasm. (15 minutes)
-4) **Establishing a comparable advantage for the ATOM token.** Zaki (Iqlusion) talks about ensuring that the ATOM offers genuine comparative advantages over other tokens in the forthcoming interchain. (15 minutes)
-5) **Discussion + Q&A:** we'll have ten minutes for Q&A, and will share a doc to add further questions that can be used in a future call and AMA.
+tbd, 2020 @ ??:00 UTC - Topic call: tbd
 
 
 ### Previous 2020 Calls
@@ -25,9 +17,29 @@ Mon, April 27, 2020 @ 15:00 UTC - Topic call: **Funding improvements to the Cosm
  Feb | Thursday, February 27, 2020 - 14:00 UTC | [agenda](Month2.2020.md) | [notes](Month2.2020.md#notes) | [audio](https://zoom.us/rec/play/vJYpcLv9r2o3GdHE5gSDCqArW9TvKK-s0nRM_fRYmRu9BXUBMACmY7QUMbbo8Pf-og7NFvledSnHKVei) & [chat script](https://zoom.us/rec/download/tJcsdrquqW03SIGWtQSDAad4W43sJ_qsgCYcqKdYzhmwVnACNAH0NLRDNuvY_y9uy0gzbdWuZf-0TEPa) |
  Mar | Wenesday, March 18, 2020 - 15:00 UTC | Connecting Cosmos Hub's governance to a dedicated legal entity | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#march-18) | [audio](https://zoom.us/rec/play/7MF4f7r-qDw3TNKcuASDU_N5W9TueKushnMZ8qUNnhu3U3dXN1WgZLAQYOpll36z3yv41ND_KMVlhn8r) |
  Mar | Tuesday, March 31, 2020 - 15:00 UTC | [agenda](Month3.2020.md) | [notes](Month3.2020.md#notes) | [audio](https://drive.google.com/open?id=15448vy81wyhJ6yxsS0VcvwcKfW6xL-K0) |
+  Apr | Mon, Apr 27, 2020 - 16:00 UTC | Funding improvements to the Cosmos Hub post-IBC | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#april-27) | audio tbd |
  
  
 ### Topic calls
+#### April 27
+**Topic:** Funding improvements to the Cosmos Hub post-IBC
+
+**Agenda:**
+1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) talks post-IBC roadmap. (5 minutes)
+2) **What is Peggy?** Justin & Deborah (Althea) discuss their plan to connect the Cosmos ecosystem to the Ethereum ecosystem. (15 minutes)
+3) **How can smart contract capability improve the Cosmos Hub?** Ethan (CosmWasm) discusses his plan to make the Cosmos Hub more versatile with CosmWasm. (15 minutes)
+4) **Establishing a comparable advantage for the ATOM token.** Zaki (Iqlusion) talks about ensuring that the ATOM offers genuine comparative advantages over other tokens in the forthcoming interchain. (15 minutes)
+5) **Discussion + Q&A:** we'll have ten minutes for Q&A, and will share a doc to add further questions that can be used in a future call and AMA.
+
+Audio recording (tbd)
+
+30 attendees
+
+**Chat log:**
+```
+tbd
+```
+
 #### March 18
 **Topic:** Connecting Cosmos Hub's governance to a dedicated legal entity
 
