@@ -9,10 +9,11 @@ Mon, April 27, 2020 @ 15:00 UTC - Topic call: **Funding improvements to the Cosm
 
 [Calendar invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHRnMzlvaGU4MXY4bjQ2OXVzYzZqODN1NDQgZmlnbWVudC5jYXBpdGFsX29iYnZqMnVsNWI3MGFyNTg4amY4dnUxanFrQGc&tmsrc=figment.capital_obbvj2ul5b70ar588jf8vu1jqk%40group.calendar.google.com)
 #### Agenda
-1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) talks post-IBC roadmap.
-2) **What is Peggy?** Justin & Deborah (Althea) discuss their plan to connect the Cosmos ecosystem to the Ethereum ecosystem.
-3) **How can smart contract capability improve the Cosmos Hub?** Ethan (CosmWasm) discusses his plan to make the Cosmos Hub more versatile with CosmWasm.
-4) **Establishing a comparable advantage for the ATOM token.** Zaki (Iqlusion) talks about ensuring that the ATOM offers genuine comparative advantages over other tokens in the forthcoming interchain.
+1) **What happens after the Cosmos whitepaper has been delivered?** Gavin (Figment) talks post-IBC roadmap. (5 minutes)
+2) **What is Peggy?** Justin & Deborah (Althea) discuss their plan to connect the Cosmos ecosystem to the Ethereum ecosystem. (15 minutes)
+3) **How can smart contract capability improve the Cosmos Hub?** Ethan (CosmWasm) discusses his plan to make the Cosmos Hub more versatile with CosmWasm. (15 minutes)
+4) **Establishing a comparable advantage for the ATOM token.** Zaki (Iqlusion) talks about ensuring that the ATOM offers genuine comparative advantages over other tokens in the forthcoming interchain. (15 minutes)
+5) **Discussion + Q&A:** we'll have ten minutes for Q&A, and will share a doc to add further questions that can be used in a future call and AMA.
 
 
 ### Previous 2020 Calls
