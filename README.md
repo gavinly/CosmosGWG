@@ -17,7 +17,7 @@ tbd, 2020 @ ??:00 UTC - Topic call: tbd
  Feb | Thursday, February 27, 2020 - 14:00 UTC | [agenda](Month2.2020.md) | [notes](Month2.2020.md#notes) | [audio](https://zoom.us/rec/play/vJYpcLv9r2o3GdHE5gSDCqArW9TvKK-s0nRM_fRYmRu9BXUBMACmY7QUMbbo8Pf-og7NFvledSnHKVei) & [chat script](https://zoom.us/rec/download/tJcsdrquqW03SIGWtQSDAad4W43sJ_qsgCYcqKdYzhmwVnACNAH0NLRDNuvY_y9uy0gzbdWuZf-0TEPa) |
  Mar | Wenesday, March 18, 2020 - 15:00 UTC | Connecting Cosmos Hub's governance to a dedicated legal entity | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#march-18) | [audio](https://zoom.us/rec/play/7MF4f7r-qDw3TNKcuASDU_N5W9TueKushnMZ8qUNnhu3U3dXN1WgZLAQYOpll36z3yv41ND_KMVlhn8r) |
  Mar | Tuesday, March 31, 2020 - 15:00 UTC | [agenda](Month3.2020.md) | [notes](Month3.2020.md#notes) | [audio](https://drive.google.com/open?id=15448vy81wyhJ6yxsS0VcvwcKfW6xL-K0) |
-  Apr | Mon, Apr 27, 2020 - 16:00 UTC | Funding improvements to the Cosmos Hub post-IBC | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#april-27) | audio tbd |
+  Apr | Mon, Apr 27, 2020 - 16:00 UTC | Funding improvements to the Cosmos Hub post-IBC | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#april-27) | [audio](https://drive.google.com/open?id=1LGvhbQS8JQqbYLLlK-sW6e4rrovCRscd) |
  
  
 ### Topic calls
@@ -31,13 +31,43 @@ tbd, 2020 @ ??:00 UTC - Topic call: tbd
 4) **Establishing a comparable advantage for the ATOM token.** Zaki (Iqlusion) talks about ensuring that the ATOM offers genuine comparative advantages over other tokens in the forthcoming interchain. (15 minutes)
 5) **Discussion + Q&A:** we'll have ten minutes for Q&A, and will share a doc to add further questions that can be used in a future call and AMA.
 
-Audio recording (tbd)
+[Audio recording](https://drive.google.com/open?id=1LGvhbQS8JQqbYLLlK-sW6e4rrovCRscd)
 
 30 attendees
 
 **Chat log:**
 ```
-tbd
+00:14:38	Gavin (Figment):	https://docs.google.com/document/d/17BShngBgy10Cq93DxK8gyynWx23Abghd8xRm7F8tq5w/edit?usp=sharing
+00:19:43	A Rose:	Did you share a doc here?
+00:19:50	Gavin (Figment):	https://docs.google.com/document/d/17BShngBgy10Cq93DxK8gyynWx23Abghd8xRm7F8tq5w/edit?usp=sharing
+00:19:54	A Rose:	Thanks!
+00:20:17	Justin Kilpatrick:	https://docs.google.com/document/d/17mjvH06pZglL2PkJ013xNzFjEESqHtk3nYZ66aTR9YU/edit#heading=h.cjiddswuu7b5
+00:22:36	Gavin (Figment):	So with Peggy, you can mint vouchers redeemable for assets locked up on Ethereum. Then you can use those vouchers in Cosmos ecosystem DeFi.
+00:37:19	Gavin (Figment):	https://docs.google.com/document/d/17BShngBgy10Cq93DxK8gyynWx23Abghd8xRm7F8tq5w/edit?usp=sharing
+00:37:58	Henrik Aasted Sørensen:	Thanks for the presentation. Very interesting work!
+00:38:45	Florian | Staking Facilities:	Yeah, really cool!
+00:51:25	Justin Kilpatrick:	sensing a common theme when it comes to governance  :)
+00:52:02	VOLKER:	CosmWasm is amazing piece of code! Pretty cool project, love it.
+00:52:07	Simon:	https://www.cosmwasm.com/
+00:52:19	Simon:	https://t.me/joinchat/AkZriEhk9qcRw5A5U2MapA
+00:53:15	deborahsimpier:	Very Cool and Exciting project!
+00:57:26	JK:	Agreed!
+00:57:27	Jazear Brooks:	agreed Justin, DeGov will be increasingly important and Cosmos Hub’s governance can lead the way.  it’s like a Dao although it hasn’t been overtly named as such
+00:58:33	Henrik Aasted Sørensen:	It’s super interesting. Especially putting the smart contracts under governance is a really great idea for the hub!
+01:09:25	James Moreau:	This convo is very exciting. Gotta hop off. Talk soon everyone
+01:11:51	Gavin (Figment):	https://www.cosmwasm.com/ https://t.me/joinchat/AkZriEhk9qcRw5A5U2MapA
+01:12:09	Gavin (Figment):	https://docs.google.com/document/d/17BShngBgy10Cq93DxK8gyynWx23Abghd8xRm7F8tq5w/edit?ts=5ea6f98b
+01:13:31	Felix Lutsch:	Thx Gavin, great and important call! Looking forward to the Ready Layer One session
+01:13:42	Gavin (Figment):	Thanks for joining!
+01:13:55	Gavin (Figment):	Ready Layer One: May 4 @ 21:00 UTC
+01:17:47	Eddie:	Worthy discussion. Counterpoint to the risk of ETH forking: https://medium.com/dragonfly-research/ethereum-is-now-unforkable-thanks-to-defi-9818b967738f
+01:21:45	Florian | Staking Facilities:	Thx to everyone! Great call today
+01:23:41	Eddie:	thanks, everyone! gotta run.
+01:26:17	Matthew Felice Pace:	Thank you everyone!
+01:26:30	JK:	Thanks for organizing this!
+01:26:32	VOLKER | blockscape:	Thanks Gavin, for managing this call. Good to so many great people working on the cosmos ecosystem.
+01:27:03	Fabian | blockscape:	Thanks, I’m also going to hop off, great stuff!
+01:27:11	Douglas:	Thanks bye
 ```
 
 #### March 18
