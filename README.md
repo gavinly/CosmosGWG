@@ -6,8 +6,11 @@ The Cosmos GWG Community Call is intended to bring together various Cosmos stake
 
 ### Next Call
 June 3, 2020 @ 18:00 UTC - Topic call: **How can the Cosmos Hub can evolve as a living organism?** By Chjango (Tendermint Inc)
+
 [Calendar invite](https://bit.ly/36H8rZ1)
+
 [Zoom link](https://us02web.zoom.us/j/3840167190)
+
 How can the Cosmos Hub evolve as a living organism? How should we, as the community of people who govern the Hub, be thinking about driving it to become a competitive hub?
 
 1. Newcomer intros (5 mins)
