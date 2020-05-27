@@ -21,7 +21,7 @@ How can the Cosmos Hub evolve as a living organism? How should we, as the commun
 
 At least for now, the ATOM's value is tied to the Hub, and the Hub's value is derived from the utility it has and the liquidity that's flowing through it. Chjango (Tendermint Inc.) would like us to consider the competitive landscape and to think about what our community should be funding to drive meaningful adoption.
 
-Join us to explore what options we have as a community and consider the our future directives for the Hub and the ATOM.
+Join us to explore what options we have as a community and consider our future directives for the Hub and the ATOM.
 
 
 ### Previous 2020 Calls
