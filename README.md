@@ -5,7 +5,20 @@ Discuss community calls [here](https://forum.cosmos.network/t/gwg-community-call
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos Hub. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Next Call
-tbd, 2020 @ ??:00 UTC - Topic call: tbd
+June 3, 2020 @ 18:00 UTC - Topic call: **How can the Cosmos Hub can evolve as a living organism?** By Chjango (AiB)
+[Calendar invite](https://bit.ly/36H8rZ1)
+[Zoom link](https://us02web.zoom.us/j/3840167190)
+How can the Cosmos Hub evolve as a living organism? How should we, as the community of people who govern the Hub, be thinking about driving it to become a competitive hub?
+
+1. Newcomer intros (5 mins)
+
+2. Quick update about latest governance proposals (5 mins)
+
+3. Discussion topic (remainder of time ~45 mins)
+
+At least for now, the ATOM's value is tied to the Hub, and the Hub's value is derived from the utility it has and the liquidity that's flowing through it. Chjango (Tendermint Inc.) would like us to consider the competitive landscape and to think about what our community should be funding to drive meaningful adoption.
+
+Join us to explore what options we have as a community and consider the our future directives for the Hub and the ATOM.
 
 
 ### Previous 2020 Calls
