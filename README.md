@@ -17,7 +17,7 @@ Recent discussions: [June 3, 2020](#june-3)
 ### Next Call
 TBD @ ??:00 UTC - Topic call: **TBD**
 
-Reach out to [Gavin (Figment Networks)](t.me/gavinly) to pursue a topic call or AMA.
+Reach out to [Gavin (Figment Networks)](https://t.me/gavinly) to pursue a topic call or AMA.
 
 ### Previous topic calls
 
