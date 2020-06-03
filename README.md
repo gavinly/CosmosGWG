@@ -6,27 +6,14 @@ The Cosmos GWG Community Call is intended to bring together various Cosmos stake
 
 ### Active discussions
 How can the Cosmos Hub evolve to be competitive? What can the Hub fund to drive meaningful adoption? By [Chjango](https://twitter.com/chjango) (Tendermint Inc)
-Recent discussions: [June 3, 2020]()
+
+Recent discussions: [June 3, 2020](#june-3)
+
 [Keep informed by signing up for emails here](https://forms.gle/bQABa7CHJtC2nhYU9)
 
 ### Next Call
-June 3, 2020 @ 18:00 UTC - Topic call: **How can the Cosmos Hub can evolve as a living organism?** By Chjango (Tendermint Inc)
-
-[Calendar invite](https://bit.ly/36H8rZ1)
-
-[Zoom link](https://us02web.zoom.us/j/3840167190)
-
-How can the Cosmos Hub evolve as a living organism? How should we, as the community of people who govern the Hub, be thinking about driving it to become a competitive hub?
-
-1. Newcomer intros (5 mins)
-
-2. Quick update about latest governance proposals (5 mins)
-
-3. Discussion topic (remainder of time ~45 mins)
-
-At least for now, the ATOM's value is tied to the Hub, and the Hub's value is derived from the utility it has and the liquidity that's flowing through it. Chjango (Tendermint Inc.) would like us to consider the competitive landscape and to think about what our community should be funding to drive meaningful adoption.
-
-Join us to explore what options we have as a community and consider our future directives for the Hub and the ATOM.
+TBD @ ??:00 UTC - Topic call: **TBD**
+Reach out to [Gavin (Figment Networks)](t.me/gavinly) to pursue a topic call or AMA.
 
 
 ### Previous 2020 Calls
