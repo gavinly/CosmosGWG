@@ -4,6 +4,11 @@ Discuss community calls [here](https://forum.cosmos.network/t/gwg-community-call
 ### Purpose
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos Hub. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
+### Active discussions
+How can the Cosmos Hub evolve to be competitive? What can the Hub fund to drive meaningful adoption? By [Chjango](https://twitter.com/chjango) (Tendermint Inc)
+Recent discussions: [June 3, 2020]()
+[Keep informed by signing up for emails here](https://forms.gle/bQABa7CHJtC2nhYU9)
+
 ### Next Call
 June 3, 2020 @ 18:00 UTC - Topic call: **How can the Cosmos Hub can evolve as a living organism?** By Chjango (Tendermint Inc)
 
@@ -37,6 +42,37 @@ Join us to explore what options we have as a community and consider our future d
  
  
 ### Topic calls
+
+#### June 3
+**Topic:** How can the Cosmos Hub can evolve as a living organism? By Chjango (Tendermint Inc)
+
+How should we, as the community of people who govern the Hub, be thinking about driving it to become a competitive hub?
+
+1) Newcomer intros (5 mins)
+2) Quick update about latest governance proposals - Gavin (Figment Networks) (5 mins)
+3) Discussion topic (remainder of time ~45 mins)
+
+At least for now, the ATOM's value is tied to the Hub, and the Hub's value is derived from the utility it has and the liquidity that's flowing through it. Chjango (Tendermint Inc.) would like us to consider the competitive landscape and to think about what our community should be funding to drive meaningful adoption.
+
+In this call we explored what options we have as a community and considered our future directives for the Hub and the ATOM.
+
+[Audio recording](https://drive.google.com/open?id=1xhAZytWjvaTAuHYxZUlb52dqfJNOG2yM)
+
+20 attendees
+
+**Chat log:**
+```
+00:10:19	chjango:	Working doc: https://docs.google.com/document/d/1901Y6Vbg927Ox1a1jn8NXmukME7V7rhoJsSamLKUp1I/edit?usp=sharing
+00:11:50	Gavin (Figment):	Try sharing your screen now
+00:12:06	Gavin (Figment):	Here’s the Telegram channel: https://t.me/hubgov
+00:18:39	Gavin (Figment):	Any questions so far?
+00:21:42	Peter Haymond:	What is the best way to propose a DEX RFP to the community?
+00:52:39	Gavin (Figment):	Just want to point out time, we have a minute remaining.
+00:54:38	Gavin (Figment):	Want to continue with this topic? Sign up here: https://forms.gle/MUeBhe9X5cw5sYe49
+00:55:19	Gavin (Figment):	https://t.me/hubgov
+00:56:41	Kenneth james Berey:	ok
+```
+
 #### April 27
 **Topic:** Funding improvements to the Cosmos Hub post-IBC
 
