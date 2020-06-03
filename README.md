@@ -5,9 +5,12 @@ Discuss community calls [here](https://forum.cosmos.network/t/gwg-community-call
 The Cosmos GWG Community Call is intended to bring together various Cosmos stakeholders who play major roles developing the Cosmos Hub. It's the opportunity to connect, provide updates across projects, and to support each other as we consider Cosmos governance.
 
 ### Active discussions
-How can the Cosmos Hub evolve to be competitive? What can the Hub fund to drive meaningful adoption? By [Chjango](https://twitter.com/chjango) (Tendermint Inc)
+#### How can the Cosmos Hub evolve to be competitive?
+What can the Hub fund to drive meaningful adoption? By [Chjango](https://twitter.com/chjango) (Tendermint Inc)
 
 Recent discussions: [June 3, 2020](#june-3)
+
+[Proposed working document by Chjango](https://docs.google.com/document/d/1901Y6Vbg927Ox1a1jn8NXmukME7V7rhoJsSamLKUp1I/edit?usp=sharing)
 
 [Keep informed by signing up for emails here](https://forms.gle/bQABa7CHJtC2nhYU9)
 
@@ -38,6 +41,8 @@ How should we, as the community of people who govern the Hub, be thinking about 
 1) Newcomer intros (5 mins)
 2) Quick update about latest governance proposals - Gavin (Figment Networks) (5 mins)
 3) Discussion topic (remainder of time ~45 mins)
+
+[Accompanying document](https://docs.google.com/document/d/1901Y6Vbg927Ox1a1jn8NXmukME7V7rhoJsSamLKUp1I/edit?usp=sharing)
 
 At least for now, the ATOM's value is tied to the Hub, and the Hub's value is derived from the utility it has and the liquidity that's flowing through it. Chjango (Tendermint Inc.) would like us to consider the competitive landscape and to think about what our community should be funding to drive meaningful adoption.
 
