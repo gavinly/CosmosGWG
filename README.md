@@ -18,20 +18,7 @@ Recent discussions: [June 3, 2020](#june-3)
 TBD @ ??:00 UTC - Topic call: **TBD**
 Reach out to [Gavin (Figment Networks)](t.me/gavinly) to pursue a topic call or AMA.
 
-
-### Previous 2020 Calls
-
- Month  | Date                             | Agenda        |Notes          | Recording            |
---- | -------------------------------- | -------------- |-------------- | -------------------- |
- Jan | Tuesday, January 28, 2020 - 15:00 UTC | [agenda](Month1.2020.md) | [notes](Month1.2020.md#notes) | [audio](https://drive.google.com/open?id=14P5PSSBN0hBEG40BX1GAvEOQSNKH06-0) |
- Feb | Thursday, February 13, 2020 - 14:00 UTC | A process for draft proposal intake | n/a | [audio](https://drive.google.com/drive/folders/13zIavILxmbqv4BaaBaSogNlTQ-lRubW1?usp=sharing) |
- Feb | Thursday, February 27, 2020 - 14:00 UTC | [agenda](Month2.2020.md) | [notes](Month2.2020.md#notes) | [audio](https://zoom.us/rec/play/vJYpcLv9r2o3GdHE5gSDCqArW9TvKK-s0nRM_fRYmRu9BXUBMACmY7QUMbbo8Pf-og7NFvledSnHKVei) & [chat script](https://zoom.us/rec/download/tJcsdrquqW03SIGWtQSDAad4W43sJ_qsgCYcqKdYzhmwVnACNAH0NLRDNuvY_y9uy0gzbdWuZf-0TEPa) |
- Mar | Wenesday, March 18, 2020 - 15:00 UTC | Connecting Cosmos Hub's governance to a dedicated legal entity | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#march-18) | [audio](https://zoom.us/rec/play/7MF4f7r-qDw3TNKcuASDU_N5W9TueKushnMZ8qUNnhu3U3dXN1WgZLAQYOpll36z3yv41ND_KMVlhn8r) |
- Mar | Tuesday, March 31, 2020 - 15:00 UTC | [agenda](Month3.2020.md) | [notes](Month3.2020.md#notes) | [audio](https://drive.google.com/open?id=15448vy81wyhJ6yxsS0VcvwcKfW6xL-K0) |
-  Apr | Mon, Apr 27, 2020 - 16:00 UTC | Funding improvements to the Cosmos Hub post-IBC | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#april-27) | [audio](https://drive.google.com/open?id=1LGvhbQS8JQqbYLLlK-sW6e4rrovCRscd) |
- 
- 
-### Topic calls
+### Previous topic calls
 
 #### June 3
 **Topic:** How can the Cosmos Hub can evolve as a living organism? By Chjango (Tendermint Inc)
@@ -152,3 +139,14 @@ In this call we explored what options we have as a community and considered our 
 00:54:56	Gavin (Figment):	Add your name to this list (semi-public) and I can email you about future calls: http://bit.ly/2sukvxa
 00:56:27	Ismail Khoffi:	Thanks everyone!
 ```
+
+### Previous 2020 Calls
+
+ Month  | Date                             | Agenda        |Notes          | Recording            |
+--- | -------------------------------- | -------------- |-------------- | -------------------- |
+ Jan | Tuesday, January 28, 2020 - 15:00 UTC | [agenda](Month1.2020.md) | [notes](Month1.2020.md#notes) | [audio](https://drive.google.com/open?id=14P5PSSBN0hBEG40BX1GAvEOQSNKH06-0) |
+ Feb | Thursday, February 13, 2020 - 14:00 UTC | A process for draft proposal intake | n/a | [audio](https://drive.google.com/drive/folders/13zIavILxmbqv4BaaBaSogNlTQ-lRubW1?usp=sharing) |
+ Feb | Thursday, February 27, 2020 - 14:00 UTC | [agenda](Month2.2020.md) | [notes](Month2.2020.md#notes) | [audio](https://zoom.us/rec/play/vJYpcLv9r2o3GdHE5gSDCqArW9TvKK-s0nRM_fRYmRu9BXUBMACmY7QUMbbo8Pf-og7NFvledSnHKVei) & [chat script](https://zoom.us/rec/download/tJcsdrquqW03SIGWtQSDAad4W43sJ_qsgCYcqKdYzhmwVnACNAH0NLRDNuvY_y9uy0gzbdWuZf-0TEPa) |
+ Mar | Wenesday, March 18, 2020 - 15:00 UTC | Connecting Cosmos Hub's governance to a dedicated legal entity | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#march-18) | [audio](https://zoom.us/rec/play/7MF4f7r-qDw3TNKcuASDU_N5W9TueKushnMZ8qUNnhu3U3dXN1WgZLAQYOpll36z3yv41ND_KMVlhn8r) |
+ Mar | Tuesday, March 31, 2020 - 15:00 UTC | [agenda](Month3.2020.md) | [notes](Month3.2020.md#notes) | [audio](https://drive.google.com/open?id=15448vy81wyhJ6yxsS0VcvwcKfW6xL-K0) |
+  Apr | Mon, Apr 27, 2020 - 16:00 UTC | Funding improvements to the Cosmos Hub post-IBC | [agenda](https://github.com/gavinly/CosmosGWG/blob/master/README.md#april-27) | [audio](https://drive.google.com/open?id=1LGvhbQS8JQqbYLLlK-sW6e4rrovCRscd) |
