@@ -27,8 +27,11 @@ Audio recording to be posted
 
 #### 3. Proposed Topic: How can community pool funds be more effectively distributed?
 A number of entities are working on ways to improve the governance mechanism and practices, such the [CosmWasm team's subkeys.](https://docs.cosmwasm.com/cw-plus/cw1/subkeys.html#) Sikka is leading the way to improve the Hub in small, incremental ways, funded in smaller denominations from the community pool. Should the Hub get used to more frequent proposal activity, which can be enabled by subkeys? or should we use the Groups Module to budget a designated budget (eg. petty cash) for smaller expenses?
+
 a) Short AMA w Sikka - Sikka has been approved and funded by Hub governance to implement split voting in Hub governance
+
 b) Short AMA w Regen - Regen has been funded by the ICF to create the [Groups Module]
+
 c) open discussion
 
 #### 4. Future planning
