@@ -2,7 +2,7 @@
 ## December 2020 Topic Call
 [Discuss in forum](https://forum.cosmos.network/t/gwg-community-calls-updates/3238/12) and [Telegram channel](https://t.me/hubgov)
 
-Date: Tu Dec 15, 2020
+Date: Tu Dec 15, 2020 - [Add to calendar!](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTU3amd1OXY3bmhrOTR2aGJlcXQzb251MWwgZmlnbWVudC5jYXBpdGFsX29iYnZqMnVsNWI3MGFyNTg4amY4dnUxanFrQGc&tmsrc=figment.capital_obbvj2ul5b70ar588jf8vu1jqk%40group.calendar.google.com)
 
 Time: 17:00 UTC
 
