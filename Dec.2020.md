@@ -25,19 +25,19 @@ Audio recording to be posted
 - GWG reboot
 - governance work updates
   - updates planned for for [community-spend docs](https://github.com/gavinly/CosmosCommunitySpend) & [parameter-change docs](https://github.com/gavinly/CosmosParametersWiki)
-  - [Prop31](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/31) & Prop32
+  - [Prop31](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/31) & [Prop32]](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/32)
 
 #### 3. Proposed Topic: How can community pool funds be more effectively distributed?
 A number of entities are working on ways to improve the governance mechanism and practices, such the [CosmWasm team's subkeys.](https://docs.cosmwasm.com/cw-plus/cw1/subkeys.html#) Sikka is leading the way to improve the Hub in small, incremental ways, funded in smaller denominations from the community pool. Should the Hub get used to more frequent proposal activity, which can be enabled by subkeys? or should we use the Groups Module to budget a designated budget (eg. petty cash) for smaller expenses?
 
-a) **15 minute AMA w Sikka** - Sikka has been approved and funded by Hub governance to [implement split voting in Hub governance](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/31)
+a) **AMA w Sikka** (15 mins) - Sikka has been approved and funded by Hub governance to [implement split voting in Hub governance](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/31)
 
-b) **15 minute AMA w Regen** - Regen has been funded by the ICF to create the [Groups Module](https://github.com/regen-network/cosmos-modules/tree/master/incubator/group)
+b) **AMA w Regen** (15 mins) - Regen has been funded by the ICF to create the [Groups Module](https://github.com/regen-network/cosmos-modules/tree/master/incubator/group)
 
-c) **20 minutes** - open discussion
+c) **Open discussion** (20 mins)
 
 #### 4. Future planning
-- What single topics are current priorities for the next call?
+Stick around for a few minutes after the call (if you can). What single topics are current priorities for the next call?
 
 ## Notes
 
