@@ -25,7 +25,7 @@ Audio recording to be posted
 - GWG reboot
 - governance work updates
   - updates planned for for [community-spend docs](https://github.com/gavinly/CosmosCommunitySpend) & [parameter-change docs](https://github.com/gavinly/CosmosParametersWiki)
-  - [Prop31](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/31) & [Prop32]](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/32)
+  - [Prop31](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/31) & [Prop32](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/32)
 
 #### 3. Proposed Topic: How can community pool funds be more effectively distributed?
 A number of entities are working on ways to improve the governance mechanism and practices, such the [CosmWasm team's subkeys.](https://docs.cosmwasm.com/cw-plus/cw1/subkeys.html#) Sikka is leading the way to improve the Hub in small, incremental ways, funded in smaller denominations from the community pool. Should the Hub get used to more frequent proposal activity, which can be enabled by subkeys? or should we use the Groups Module to budget a designated budget (eg. petty cash) for smaller expenses?
@@ -41,7 +41,7 @@ Stick around for a few minutes after the call (if you can). What single topics a
 
 ## Notes
 
-### 1. New attendees
+### 1. Attendees
 x attendees in total
 
 #### 2. GWG updates
