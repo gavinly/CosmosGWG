@@ -32,7 +32,7 @@ Host: Gavin Birch ([Figment](https://figment.io))
 A number of entities are working on ways to improve the governance mechanism and practices, such the [CosmWasm team's subkeys.](https://docs.cosmwasm.com/cw-plus/cw1/subkeys.html#) Sikka is leading the way to improve the Hub in small, incremental ways, funded in smaller denominations from the community pool. Should the Hub get used to more frequent proposal activity, which can be enabled by subkeys? or should we use the Groups Module to budget a designated budget (eg. petty cash) for smaller expenses?
 
 
-##### a) **AMA w Sikka** (15 mins) - Sikka has been approved and funded by Hub governance to [implement split voting in Hub governance](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/31)
+#### a) **AMA w Sikka** (15 mins) - Sikka has been approved and funded by Hub governance to [implement split voting in Hub governance](https://hubble.figment.io/cosmos/chains/cosmoshub-3/governance/proposals/31)
 
 **What was the problem you saw here? How will this solve the problem, and how do you expect it to be used?**
 
@@ -66,7 +66,7 @@ Gavin doesn't have specific ideas, but thinks that defining being a Cosmos Hub c
 
 Sam suggests **Flagging accounts that have had approved previously to allow them to bypass deposits in future** could 
 
-##### b) **AMA w Regen** (15 mins) - Regen has been funded by the ICF to create the [Groups Module](https://github.com/regen-network/cosmos-modules/tree/master/incubator/group)
+#### b) **AMA w Regen** (15 mins) - Regen has been funded by the ICF to create the [Groups Module](https://github.com/regen-network/cosmos-modules/tree/master/incubator/group)
 
 **What was the problem you saw here? What inspired this work?**
 Initially I was think about how to use blockchain in a real-world use-case. Within an organization, how can you delegate different powers or permissions to perform certain actions on behalf of the organization? Regen Network team as an organization has these needs, and also envision "community staking DAOs" that hold a large of amount of tokens that are staked and have a lot of governance power that need to be able to do things on-chain.
@@ -86,7 +86,7 @@ Aaron thinks that if the root governance was made into an account, then root gov
 **What is the status of the work?**
 Doing an internal review and within the first weeks of the new year we should have things stable. Authorization module has been waiting for review until after Stargate and hasn't been through the ADR process for open discussion because they were told that the SDK didn't have the bandwidth--still looking for a clear answer to begin the ADR process.
 
-##### c) **Open discussion** (20 mins)
+#### c) **Open discussion** (20 mins)
 (left off at 50:54 in recording, will continue recording notes)
 
 #### 4. Future planning
